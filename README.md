@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=mono&pause=1000&color=FFFFFF&width=435&lines=Welcome+to+Barra's+Github)](https://git.io/typing-svg)
-
 ---
 
 
