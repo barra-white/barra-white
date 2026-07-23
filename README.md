@@ -36,4 +36,4 @@ AI second brain + personal assistant, using Opencode and Obsidian
 - An archive of projects and assignments from my [MSc in Artificial Intelligence](https://github.com/barra-white/msc-artificial-intelligence)
 - Code for my MSc Thesis: [*Causal Mechanism Stability as a Retraining Trigger for Financial Forecasting Models*](https://github.com/barra-white/cms-based-retraining)
 - An archive of projects and assignments from my [BSc in Computer Science](https://github.com/barra-white/bsc-computer-science)
-- Code for my BSc Dissertation: *Component Based Quantum Machine Learning Explainability*
+- Code for my BSc Dissertation: [*Component Based Quantum Machine Learning Explainability*](https://github.com/barra-white/component-based-qml-explainability)
