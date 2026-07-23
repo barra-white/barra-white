@@ -10,15 +10,15 @@ Hi! I'm Barra, a MSc in AI and BSc in CS student from Cork, Ireland.
 ### Notable Projects
 **Causal Mechanism Stability as a Retraining Trigger for Financial Forecasting Models**
 - Developed an end-to-end ML pipeline training and evaluating multiple ML architectures on financial time series data to generate trading signals
--​ Designed a novel causal mechanism stability framework to proactively detect model degradation and trigger targeted retraining
--​ Outperformed standard statistical drift detection methods while significantly reducing computational overhead compared to full-model retraining cycles
--​ Delivered a practical, automated retraining trigger system evaluated against multiple benchmark drift detection approaches
+- Designed a novel causal mechanism stability framework to proactively detect model degradation and trigger targeted retraining
+- Outperformed standard statistical drift detection methods while significantly reducing computational overhead compared to full-model retraining cycles
+- Delivered a practical, automated retraining trigger system evaluated against multiple benchmark drift detection approaches
 
-**Component Based Quantum Machine Learning Explainability**:
+**Component Based Quantum Machine Learning Explainability**
 - Proposed a component-based framework applying ML explainability techniques toQuantum Machine Learning algorithms
--​ Addressed the black-box problem in QML by providing granular insight into how individual circuit components contribute to model predictions
--​ Implemented and validated QML circuits using IBM's Qiskit platform on real quantum hardware across multiple circuit architectures
--​ One of the first systematic approaches to explainability at the component level in QML
+- Addressed the black-box problem in QML by providing granular insight into how individual circuit components contribute to model predictions
+- Implemented and validated QML circuits using IBM's Qiskit platform on real quantum hardware across multiple circuit architectures
+- One of the first systematic approaches to explainability at the component level in QML
 ---
 
 <!--
