@@ -33,7 +33,7 @@ AI second brain + personal assistant, using Opencode and Obsidian
 
 
 ## Whats on this profile?
-- An archive of projects and assignments from my MSc in Artificial Intelligence
+- An archive of projects and assignments from my [MSc in Artificial Intelligence](https://github.com/barra-white/msc-artificial-intelligence)
 - Code for my MSc Thesis: *Causal Mechanism Stability as a Retraining Trigger for Financial Forecasting Models*
-- An archive of projects and assignments from my BSc in Computer Science
+- An archive of projects and assignments from my [BSc in Computer Science](https://github.com/barra-white/bsc-computer-science)
 - Code for my BSc Dissertation: *Component Based Quantum Machine Learning Explainability*
